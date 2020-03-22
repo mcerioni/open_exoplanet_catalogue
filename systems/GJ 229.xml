@@ -36,20 +36,32 @@
 			<mass>0.58</mass>
 			<temperature>3564</temperature>
 			<planet>
-				<name>GJ 229 b</name>
 				<name>GJ 229 A b</name>
 				<name>Gliese 229 A b</name>
-				<period errorminus="12" errorplus="22">471</period>
-				<eccentricity errorminus="0.10" errorplus="0.22">0.10</eccentricity>
-				<periastron>150</periastron>
-				<meananomaly>230</meananomaly>
-				<mass errorminus="0.050" errorplus="0.053" type="msini">0.101</mass>
-				<semimajoraxis errorminus="0.09" errorplus="0.12">0.97</semimajoraxis>
+				<period errorminus="4.3" errorplus="4.3">526.115</period>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.10</eccentricity>
+				<periastron errorminus="71" errorplus="71">199</periastron>
+				<meananomaly errorminus="82" errorplus="82">212</meananomaly>
+				<mass errorminus="0.006397" errorplus="0.006397" type="msini">0.026675</mass>
+				<semimajoraxis errorminus="0.031" errorplus="0.031">0.898</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet is in a binary system comprising the red dwarf star GJ 229 A and the brown dwarf GJ 229 B, which was the first identified methane brown dwarf. The planet candidate orbiting GJ 229 A was identified by Bayesian analysis of 73 UVES and 17 HARPS radial velocity measurements.</description>
 				<list>Controversial</list>
-				<lastupdate>15/04/21</lastupdate>
+				<lastupdate>20/03/22</lastupdate>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+			<planet>
+				<name>GJ 229 A c</name>
+				<name>Gliese 229 A c</name>
+				<period errorminus="0.161" errorplus="0.161">121.995</period>
+				<eccentricity errorminus="0.08" errorplus="0.08">0.19</eccentricity>
+				<periastron errorminus="33" errorplus="33">121</periastron>
+				<meananomaly errorminus="36" errorplus="36">154</meananomaly>
+				<mass errorminus="0.00395" errorplus="0.00395" type="msini">0.02287</mass>
+				<semimajoraxis errorminus="0.011" errorplus="0.011">0.339</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>20/03/22</lastupdate>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
